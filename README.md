@@ -80,3 +80,12 @@ This implementation starts from the [notebook_prompt.ipynb](notebook_prompt.ipyn
 * Other dependencies: pyyaml, numpy, opencv, submitit
 * GPU: Nvidia RTX A4000 x1/ CPU: Intel Core i9 (13th Gen)
 * Cuda: 12.1, CuDNN: 8.9.7
+
+---
+
+### Pretrain loss  
+<p align="center">
+  <a>
+    <img src="csv_analysis.png">
+  </a>
+</p> 
