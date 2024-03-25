@@ -3,7 +3,7 @@
 PyTorch codebase for I-JEPA (the **Image-based Joint-Embedding Predictive Architecture**) published @ CVPR-23.
 [\[arXiv\]](https://arxiv.org/pdf/2301.08243.pdf) [\[JEPAs\]](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research/) [\[blogpost\]](https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa/)
 
-Pretraining with Diabetic Retinopathy Kaggle competition dataset. [\[Kaggle\](https://www.kaggle.com/code/sayedmahmoud/diabetic-retinopathy-detection/input)
+Pretraining with Diabetic Retinopathy Kaggle competition dataset. [\[Kaggle\]](https://www.kaggle.com/code/sayedmahmoud/diabetic-retinopathy-detection/input)
 
 ## Pretrained models
 
