@@ -84,7 +84,7 @@ This implementation starts from the [notebook_prompt.ipynb](notebook_prompt.ipyn
 ---
 
 ### Pretrain loss  
-Last updated **03/26/2024 09:52** (UTC +09:00)
+Last updated: **03/26/2024 09:52** (UTC +09:00)
 
 <p align="center">
   <a>
