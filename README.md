@@ -84,6 +84,8 @@ This implementation starts from the [notebook_prompt.ipynb](notebook_prompt.ipyn
 ---
 
 ### Pretrain loss  
+Last updated 03/26/2024 09:48 (UTC +09:00)
+
 <p align="center">
   <a>
     <img src="csv_analysis.png">
